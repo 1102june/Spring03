@@ -10,7 +10,7 @@ import org.springframework.web.bind.annotation.RestController;
 public class Spring03Application {
 		@GetMapping("/")
 		public String tiger() {
-		return "Spring03:1540";
+		return "Spring03:0912";
 	}
 
 	public static void main(String[] args) {
